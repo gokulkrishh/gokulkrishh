@@ -1,7 +1,7 @@
 ### Hi, I'm Gokul 👋
 
 
-Web Developer & [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-gokulakrishnan_kalaikovan) in Web Technologies
+👉🏻 Web Developer & [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-gokulakrishnan_kalaikovan) in Web Technologies.
 
 - 🔭 I’m currently working at <b>Thoughtworks</b>
 
