@@ -5,7 +5,7 @@ Web Developer & Google Developer Expert, Web Technologies
 
 - 🔭 I’m currently working at <b>Thoughtworks</b>
 
-- 📚 Currently writting [Beginners Guide To Web Security](https://twitter.com/gokul_i/status/1280327833038884864) book.
+- 📚 Currently writing [Beginners Guide To Web Security](https://twitter.com/gokul_i/status/1280327833038884864) book.
 
 - 📩 [This Week In Web](https://www.this-week-in-web.com/) & [how it works](https://how-it-works.dev/)
 
