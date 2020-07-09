@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Gokul 👋
 
-<!--
-**gokulkrishh/gokulkrishh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Web Developer & Google Developer Expert, Web Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at <b>Thoughtworks</b>
+
+- 📩 [This Week In Web](https://www.this-week-in-web.com/) & [how it works](https://how-it-works.dev/)
+
+- ⚙️ My [dotfiles](https://github.com/gokulkrishh/dotfiles)
+
+- 💬 Ask me about anything [here](https://github.com/gokulkrishh/gokulkrishh/issues)
+
+- 📫 Reach me at: [@gokul_i](twitter.com/gokul_i) on twitter
+
