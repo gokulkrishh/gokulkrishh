@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://gokul.site.io">Blog</a> •
-  <a href="https://twitter.com/gokul_i">Twitter</a> •
+  <a href="https://twitter.com/gokul_i">Twitter</a>
 </p>
 
 ---
