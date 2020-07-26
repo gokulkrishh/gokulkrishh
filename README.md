@@ -1,13 +1,10 @@
-<h3 align="center">Hi, I'm Gokul 👋</h3>
+### Hi, I'm Gokul 👋
 
-<p align="center">
-  <a href="https://gokul.site.io">Blog</a> •
-  <a href="https://twitter.com/gokul_i">Twitter</a>
-</p>
+<a href="https://gokul.site.io">Blog</a> • <a href="https://twitter.com/gokul_i">Twitter</a>
 
----
+Hi, I am Gokulakrishnan Kalakkovan, a Web Developer and [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-gokulakrishnan_kalaikovan) in Web Technologies based out of Bangalore, India. Besides coding, I like gaming (COD mostly these days), running, football, travelling and finally an author in progress.
 
-👉🏻 Web Developer & [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-gokulakrishnan_kalaikovan) in Web Technologies.
+**A little about me:**
 
 - 💼 I’m currently working at <b>Thoughtworks</b>
 - 📚 Currently writing a book - [Beginners Guide To Web Security](https://twitter.com/gokul_i/status/1280327833038884864)
