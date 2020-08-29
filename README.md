@@ -2,7 +2,7 @@
 
 <a href="https://gokul.site.io">Blog</a> • <a href="https://twitter.com/gokul_i">Twitter</a>
 
-Hi, I am Gokulakrishnan Kalaikovan, a Web Developer and [Google Developer Expert (GDE)](https://developers.google.com/community/experts/directory/profile/profile-gokulakrishnan_kalaikovan) based out of Bangalore, India. Besides coding, I like gaming (COD mobile mostly these days), running, football, travelling and finally an author in progress.
+Hi, I am Gokulakrishnan Kalaikovan, a Web Developer and [Google Developer Expert (GDE)](https://developers.google.com/community/experts/directory/profile/profile-gokulakrishnan_kalaikovan) based out of Bangalore, India. Besides coding, I like gaming (COD mobile mostly these days), running, football, traveling and finally an author in progress.
 
 **A little about me:**
 
