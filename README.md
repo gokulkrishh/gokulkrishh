@@ -7,7 +7,7 @@ Hi, I am Gokulakrishnan Kalaikovan, a Web Developer and [Google Developer Expert
 **A little about me:**
 
 - 💼 I’m currently working at <b>Thoughtworks</b>
-- 📚 Beginner's Guide to Web Security - gokul.site/book
+- 📚 Beginner's Guide to Web Security - [gokul.site/book](gokul.site/book)
 - 📩 Newsletters [This Week In Web](https://www.this-week-in-web.com/) & [How It Works](https://how-it-works.dev/) javascript series
 - 🛠 My [dotfiles](https://github.com/gokulkrishh/dotfiles)
 - 💬 Ask me about anything [here](https://github.com/gokulkrishh/gokulkrishh/issues)
