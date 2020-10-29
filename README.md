@@ -11,3 +11,5 @@ Web Developer and [Google Developer Expert (GDE)](https://developers.google.com/
 - 📩 I share my learnings about the web and javascript in a bi-weekly newsletter called [how it works](https://how-it-works.dev) series
 - 🛠 [Dotfiles](https://github.com/gokulkrishh/dotfiles) - What tools and plugins I use for web development?
 - 💬 Ask me about anything [here](https://github.com/gokulkrishh/gokulkrishh/issues)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gokulkrishh)
