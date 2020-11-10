@@ -12,4 +12,4 @@ Web Developer and [Google Developer Expert (GDE)](https://developers.google.com/
 - 🛠 [Dotfiles](https://github.com/gokulkrishh/dotfiles) - What tools and plugins I use for web development?
 - 💬 Ask me about anything [here](https://github.com/gokulkrishh/gokulkrishh/issues)
 
-[Sponsor Me](https://www.paypal.me/gokulkrishh)
+🔗 [Sponsor Me](https://www.paypal.me/gokulkrishh)
