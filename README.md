@@ -1,6 +1,6 @@
 ### Hi, I'm Gokul 👋
 
-[Blog](https://gokul.site) • [Twitter](https://twitter.com/gokul_i)
+[Blog](https://gokul.site) • [Twitter](https://twitter.com/gokul_i) • [Youtube](https://bit.ly/SubscribeToGokul)
 
 Web Developer and [Google Developer Expert (GDE)](https://developers.google.com/community/experts/directory/profile/profile-gokulakrishnan_kalaikovan) based out of Bangalore, India. Besides coding, I like gaming (COD mobile mostly these days), running, football, traveling and an author.
 
