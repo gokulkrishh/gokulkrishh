@@ -1,6 +1,6 @@
 ### Hi, I'm Gokul 👋
 
-[Blog](https://gokul.site) • [Twitter](https://twitter.com/gokul_i) • [Youtube](https://bit.ly/SubscribeToGokul)
+[Youtube](https://bit.ly/SubscribeToGokul) • [Blog](https://gokul.site) • [Twitter](https://twitter.com/gokul_i)
 
 Web Developer and [Google Developer Expert (GDE)](https://developers.google.com/community/experts/directory/profile/profile-gokulakrishnan_kalaikovan) based out of Bangalore, India. Besides coding, I like gaming, running, football, traveling, youtuber, and an author.
 
@@ -18,4 +18,4 @@ Web Developer and [Google Developer Expert (GDE)](https://developers.google.com/
 - [Inter](https://rsms.me/inter)
 - [Fira Code](https://github.com/tonsky/FiraCode)
 
-🔗 [Sponsor](https://www.paypal.me/gokulkrishh). 
+🔗 [Sponsor](https://www.paypal.me/gokulkrishh) me.
