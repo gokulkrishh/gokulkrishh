@@ -17,7 +17,7 @@ Web Developer and [Google Developer Expert (GDE)](https://developers.google.com/
 - [Inter](https://rsms.me/inter)
 - [Fira Code](https://github.com/tonsky/FiraCode)
 
-### **Recent live stream:** Building dashboard using ReactJS - Part 1
+### **Recent video:** How to take screenshots in web browsers via DevTools
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R5PBgMawlfc/0.jpg)](https://www.youtube.com/watch?v=R5PBgMawlfc)
 
