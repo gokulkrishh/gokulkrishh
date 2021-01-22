@@ -19,6 +19,6 @@ Web Developer and [Google Developer Expert (GDE)](https://developers.google.com/
 
 ### **Recent live stream:** Building dashboard using ReactJS - Part 1
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JD1iSNnkH50/0.jpg)](https://www.youtube.com/watch?v=JD1iSNnkH50)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R5PBgMawlfc/0.jpg)](https://www.youtube.com/watch?v=R5PBgMawlfc)
 
 🔗 [Sponsor](https://www.paypal.me/gokulkrishh) me.
