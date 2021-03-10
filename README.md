@@ -17,8 +17,8 @@ Web Developer and [Google Developer Expert (GDE)](https://developers.google.com/
 - [Inter](https://rsms.me/inter)
 - [Fira Code](https://github.com/tonsky/FiraCode)
 
-### **Recent video:** How to take screenshots in web browsers via DevTools
+### **Recent video:** Pass by Value and Reference in Javascript | Episode 3 | Javascript for Beginners
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R5PBgMawlfc/0.jpg)](https://www.youtube.com/watch?v=R5PBgMawlfc)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zTl-pXoMmx0/0.jpg)](https://www.youtube.com/watch?v=zTl-pXoMmx0)
 
 🔗 [Sponsor](https://www.paypal.me/gokulkrishh) me.
