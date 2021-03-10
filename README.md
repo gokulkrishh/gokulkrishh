@@ -17,7 +17,7 @@ Web Developer and [Google Developer Expert (GDE)](https://developers.google.com/
 - [Inter](https://rsms.me/inter)
 - [Fira Code](https://github.com/tonsky/FiraCode)
 
-### **Recent video:** Pass by Value and Reference in Javascript | Episode 3 | Javascript for Beginners
+### **Recent video:** Pass by Value and Reference in Javascript
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zTl-pXoMmx0/0.jpg)](https://www.youtube.com/watch?v=zTl-pXoMmx0)
 
