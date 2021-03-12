@@ -6,10 +6,9 @@ Web Developer and [Google Developer Expert (GDE)](https://developers.google.com/
 
 **Brief intro:**
 
-- 💼 I’m currently working at <b>Thoughtworks</b>.
-- 📚 Wrote a book last year called [Beginner's Guide To Web Security](https://gokul.site/book).
-- 📩 [Newsletter](http://gokul.site).
-- 🛠 [Dotfiles](https://github.com/gokulkrishh/dotfiles) - What tools and plugins I use for web development.
+- 📩 I share weekly learnings about Web Development, Frameworks, Javascript and Designing at http://gokul.site.
+- 📚 Wrote a book called [Beginner's Guide To Web Security](https://gokul.site/book). Now selling at 30% off.
+- 🛠 [What tools and plugins](http://gokul.site/uses) I use for web development.
 - 💬 Ask me about anything [here](https://github.com/gokulkrishh/gokulkrishh/issues).
 
 **Fonts I use:**
