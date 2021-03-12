@@ -11,7 +11,7 @@ Web Developer and [Google Developer Expert](https://developers.google.com/commun
 - 🛠 [What tools and plugins](http://gokul.site/uses) I use for web development.
 - 💬 Ask me about anything [here](https://github.com/gokulkrishh/gokulkrishh/issues).
 
-### **Recent video:**: Javascript for Beginners Series
+### **Recent video:** Javascript for Beginners Series
 
 **Episode 3:** Pass by Value and Reference in Javascript
 
