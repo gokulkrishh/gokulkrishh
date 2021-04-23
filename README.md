@@ -7,7 +7,7 @@ Web Developer and [Google Developer Expert](https://developers.google.com/commun
 **Brief Intro:**
 
 - 📩 I share weekly learnings about Web Development, Frameworks, Javascript and Designing at http://gokul.site.
-- 📚 Wrote a book called [Beginner's Guide To Web Security](https://gokul.site/book). Now selling at 30% off.
+- 📚 [Beginner's Guide To Web Security](https://gokul.site/book). Now selling at 30% off.
 - 🛠 [What tools and plugins](http://gokul.site/uses) I use for web development.
 - 💬 Ask me about anything [here](https://github.com/gokulkrishh/gokulkrishh/issues).
 
