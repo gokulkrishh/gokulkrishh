@@ -11,4 +11,4 @@ Web Developer and [Google Developer Expert](https://developers.google.com/commun
 - 🛠 [What tools and plugins](http://gokul.site/uses) I use for web development.
 - 💬 Ask me about anything [here](https://github.com/gokulkrishh/gokulkrishh/issues).
 
-🔗 [Sponsor](https://www.paypal.me/gokulkrishh) me.
+🔗 [Sponsor](https://github.com/sponsors/gokulkrishh) me.
