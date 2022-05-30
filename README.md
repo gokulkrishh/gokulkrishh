@@ -1,6 +1,6 @@
 ### Hi, I'm Gokul 👋
 
-[Blog](https://gokul.site) • [Twitter](https://twitter.com/gokul_i) • [YT Web Development](https://bit.ly/SubscribeToGokul) • [YT Gaming](https://www.youtube.com/channel/UC-2ksuz9mDtYg7coVP-LqWg) 
+[Blog](https://gokul.site) • [Twitter](https://twitter.com/gokul_i) • [Youtube](https://bit.ly/SubscribeToGokul)
 
 Web Developer and [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-gokulakrishnan_kalaikovan) (GDE) based in Bangalore, India.
 
