@@ -2,7 +2,7 @@
 
 <p>
   <samp>
-   <a href="https://gokul.site">gokul.site</a> .
+   <a href="https://gokul.site">website</a> .
    <a href="https://twitter.com/gokul_i">twitter</a> .
    <a href="https://youtube.com/@gokulkrishh">youtube</a>
   </samp>
