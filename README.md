@@ -8,7 +8,7 @@
   </samp>
  </p>
 
-Web Developer and [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-gokulakrishnan-kalaikovan) (GDE) based in Bangalore, India.
+Web Developer and Google Developer Expert (GDE) based in Bangalore, India.
 
 #### Brief Intro:
 
