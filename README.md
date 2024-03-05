@@ -1,4 +1,4 @@
-### Hi, I'm Gokul 👋
+### Hi, I'm Gokul
 
 <p>
   <samp>
