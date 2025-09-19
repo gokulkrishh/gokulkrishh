@@ -8,7 +8,7 @@
   </samp>
  </p>
 
-Web Developer & Google Developer Expert (GDE) for Web based in Bangalore, India.
+Web Developer & Ex Google Developer Expert (GDE) for Web based in Bangalore, India.
 
 #### Brief Intro:
 
