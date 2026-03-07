@@ -1,20 +1,20 @@
 ### Hi, I'm Gokul
 
+Web Developer & Ex Google Developer Expert (GDE) for Web · Bangalore, India
+
 <p>
-  <samp>
-   <a href="https://gokul.site">website</a> .
-   <a href="https://twitter.com/gokul_i">twitter</a> .
-   <a href="https://youtube.com/@gokulkrishh">youtube</a>
-  </samp>
- </p>
+  <a href="https://gokul.site">Website</a> ·
+  <a href="https://twitter.com/gokul_i">Twitter</a> ·
+  <a href="https://youtube.com/@gokulkrishh">YouTube</a>
+</p>
 
-Web Developer & Ex Google Developer Expert (GDE) for Web based in Bangalore, India.
+---
 
-#### Brief Intro:
+#### About
 
-- 📩 I share my learnings on Web Development, Frameworks, Javascript, Design and Books at [gokul.site](https://gokul.site).
-- 📚 Read my book on [Beginner's Guide To Web Security](https://gokul.site/book). Now at 20% off ($8 only), go grab it.
-- 🛠 [Tools I use](http://gokul.site/blog/uses) for web development.
-- 💬 Ask me about anything [here](https://github.com/gokulkrishh/gokulkrishh/issues).
+- Writing about Web Development, JavaScript, Frameworks, Design, and Books at [gokul.site](https://gokul.site)
+- Author of [Beginner's Guide To Web Security](https://gokul.site/book)
+- [Tools I use](https://gokul.site/blog/uses) for day-to-day development
+- Open to questions — drop them [here](https://github.com/gokulkrishh/gokulkrishh/issues)
 
-🔗 [Sponsor](https://github.com/sponsors/gokulkrishh) me.
+[Sponsor](https://github.com/sponsors/gokulkrishh) · [Subscribe](https://gokul.site)
