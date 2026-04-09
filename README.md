@@ -1,5 +1,5 @@
 ### Hi, I'm Gokul
-Product Engineer · Ex Google Developer Expert (GDE) for Web · Based in India
+Web Developer · Ex Google Developer Expert (GDE) for Web · Based in India
 
 ---
 
