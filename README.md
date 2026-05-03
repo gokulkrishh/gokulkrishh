@@ -9,4 +9,4 @@ Building tools for developers. Writing about the web. Occasionally shipping thin
 - Author of [Beginner's Guide To Web Security](https://gokul.site/book)
 - Ask me anything → [open an issue](https://github.com/gokulkrishh/gokulkrishh/issues)
 
-[Website](https://gokul.site) · [Twitter / X](https://twitter.com/gokul_i) · [YouTube](https://youtube.com/@gokulkrishh) · [Sponsor](https://github.com/sponsors/gokulkrishh)
+[Website](https://gokul.site) · [X](https://twitter.com/gokul_i) · [YouTube](https://youtube.com/@gokulkrishh) · [Sponsor](https://github.com/sponsors/gokulkrishh)
