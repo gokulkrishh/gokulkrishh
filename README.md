@@ -21,11 +21,11 @@ I build small, fast products for the web, and these days I spend most of my time
 
 #### 🧰 Open source
 
-| **[qrcodescan.in](https://qrcodescan.in)** | Simple, fast QR code scanner that runs in the browser | [![stars](https://img.shields.io/github/stars/gokulkrishh/qrcodescan.in?style=flat&label=%E2%98%85&color=555)](https://github.com/gokulkrishh/qrcodescan.in) |
-| **[invoice generator](https://invoice-generator-tax.vercel.app)** | Generate invoice for work, freelance ,etc. | [source](https://invoice-generator-tax.vercel.app) |
-| **[grep.chat](https://grep.chat)** | Pick an AI model, ask anything | [source](https://github.com/gokulkrishh/grep.chat) |
-| **[til.bar](https://til.bar)** | A personal "today I learned" log, organized by AI | [source](https://github.com/gokulkrishh/til.bar) |
-- [**dotfiles**](https://github.com/gokulkrishh/dotfiles): my macOS setup for web development
+- **[qrcodescan.in](https://qrcodescan.in)** - Simple, fast QR code scanner that runs in the browser
+- **[invoice generator](https://invoice-generator-tax.vercel.app)** - Generate invoice for work, freelance ,etc.
+- **[grep.chat](https://grep.chat)** - Pick an AI model, ask anything
+- **[til.bar](https://til.bar)** - A personal "today I learned" log, organized by AI
+- [**dotfiles**](https://github.com/gokulkrishh/dotfiles) - my macOS setup for web development
 
 #### ✍️ Recent writing
 
