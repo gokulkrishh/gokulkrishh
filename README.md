@@ -12,7 +12,7 @@ I build small, fast products for the web, and these days I spend most of my time
 
 | | What it does | |
 | --- | --- | --- |
-| **[Uplink](https://getuplink.in)** | Updates, Supercharger spend, battery and driving data for your Tesla in India, on one page | |
+| **[Uplink](https://getuplink.in)** | Updates, Supercharger spend, battery and driving data for your Tesla in India, on one page | [source](https://github.com/gokulkrishh/getuplink.in) |
 | **[til.bar](https://til.bar)** | A personal "today I learned" log, organized by AI | [source](https://github.com/gokulkrishh/til.bar) |
 | **[bmrk.cc](https://bmrk.cc)** | Bookmark manager to organize, discover and personalize your links | [![stars](https://img.shields.io/github/stars/gokulkrishh/bmrk.cc?style=flat&label=%E2%98%85&color=555)](https://github.com/gokulkrishh/bmrk.cc) |
 | **[grep.chat](https://grep.chat)** | Pick an AI model, ask anything | [source](https://github.com/gokulkrishh/grep.chat) |
@@ -21,6 +21,7 @@ I build small, fast products for the web, and these days I spend most of my time
 
 #### 🧰 Open source
 
+- **[Uplink](https://github.com/gokulkrishh/getuplink.in)** - Tesla companion web app for owners in India: updates, charging, driving and battery
 - **[qrcodescan.in](https://qrcodescan.in)** - Simple, fast QR code scanner that runs in the browser
 - **[invoice generator](https://invoice-generator-tax.vercel.app)** - Generate invoice for work, freelance ,etc.
 - **[grep.chat](https://grep.chat)** - Pick an AI model, ask anything
