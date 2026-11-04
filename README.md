@@ -8,23 +8,23 @@ I build small, fast products for the web, and these days I spend most of my time
 
 ---
 
-#### 🚀 Products I've shipped
+#### 🚀 Recent Products I've shipped
 
 | | What it does | |
 | --- | --- | --- |
 | **[Uplink](https://getuplink.in)** | Updates, Supercharger spend, battery and driving data for your Tesla in India, on one page | |
-| **[expense.fyi](https://expense.fyi)** | Track and manage expenses, with categories and logging | [![stars](https://img.shields.io/github/stars/gokulkrishh/expense.fyi?style=flat&label=%E2%98%85&color=555)](https://github.com/gokulkrishh/expense.fyi) |
-| **[bmrk.cc](https://bmrk.cc)** | Bookmark manager to organize, discover and personalize your links | [![stars](https://img.shields.io/github/stars/gokulkrishh/bmrk.cc?style=flat&label=%E2%98%85&color=555)](https://github.com/gokulkrishh/bmrk.cc) |
-| **[qrcodescan.in](https://qrcodescan.in)** | Simple, fast QR code scanner that runs in the browser | [![stars](https://img.shields.io/github/stars/gokulkrishh/qrcodescan.in?style=flat&label=%E2%98%85&color=555)](https://github.com/gokulkrishh/qrcodescan.in) |
-| **[grep.chat](https://grep.chat)** | Pick an AI model, ask anything | [source](https://github.com/gokulkrishh/grep.chat) |
 | **[til.bar](https://til.bar)** | A personal "today I learned" log, organized by AI | [source](https://github.com/gokulkrishh/til.bar) |
+| **[bmrk.cc](https://bmrk.cc)** | Bookmark manager to organize, discover and personalize your links | [![stars](https://img.shields.io/github/stars/gokulkrishh/bmrk.cc?style=flat&label=%E2%98%85&color=555)](https://github.com/gokulkrishh/bmrk.cc) |
+| **[grep.chat](https://grep.chat)** | Pick an AI model, ask anything | [source](https://github.com/gokulkrishh/grep.chat) |
 | **Snap** | Free, open source macOS menu bar app for arranging windows | [source](https://github.com/gokulkrishh/snap-mac-app) |
+| **[expense.fyi](https://expense.fyi)** | Track and manage expenses, with categories and logging | [![stars](https://img.shields.io/github/stars/gokulkrishh/expense.fyi?style=flat&label=%E2%98%85&color=555)](https://github.com/gokulkrishh/expense.fyi) |
 
 #### 🧰 Open source
 
-- [**demo-progressive-web-app**](https://github.com/gokulkrishh/demo-progressive-web-app): a hands-on demo of Progressive Web App features [![stars](https://img.shields.io/github/stars/gokulkrishh/demo-progressive-web-app?style=flat&label=%E2%98%85&color=555)](https://github.com/gokulkrishh/demo-progressive-web-app/stargazers)
-- [**awesome-meta-and-manifest**](https://github.com/gokulkrishh/awesome-meta-and-manifest): every meta tag and web app manifest property, in one list [![stars](https://img.shields.io/github/stars/gokulkrishh/awesome-meta-and-manifest?style=flat&label=%E2%98%85&color=555)](https://github.com/gokulkrishh/awesome-meta-and-manifest/stargazers)
-- [**skills**](https://github.com/gokulkrishh/skills): skills I use with Claude Code
+| **[qrcodescan.in](https://qrcodescan.in)** | Simple, fast QR code scanner that runs in the browser | [![stars](https://img.shields.io/github/stars/gokulkrishh/qrcodescan.in?style=flat&label=%E2%98%85&color=555)](https://github.com/gokulkrishh/qrcodescan.in) |
+| **[invoice generator](https://invoice-generator-tax.vercel.app)** | Generate invoice for work, freelance ,etc. | [source](https://invoice-generator-tax.vercel.app) |
+| **[grep.chat](https://grep.chat)** | Pick an AI model, ask anything | [source](https://github.com/gokulkrishh/grep.chat) |
+| **[til.bar](https://til.bar)** | A personal "today I learned" log, organized by AI | [source](https://github.com/gokulkrishh/til.bar) |
 - [**dotfiles**](https://github.com/gokulkrishh/dotfiles): my macOS setup for web development
 
 #### ✍️ Recent writing
