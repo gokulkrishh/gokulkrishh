@@ -1,0 +1,44 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '17 3 * * *' # daily, 03:17 UTC (08:47 IST)
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - .github/scripts/update-blog.mjs
+      - .github/workflows/update-readme.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Refresh recent writing
+        run: node .github/scripts/update-blog.mjs
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update recent writing"
+          git push
