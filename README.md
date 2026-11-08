@@ -13,7 +13,7 @@ I build small, fast products for the web and Apple platforms, and these days I s
 | | What it does | |
 | --- | --- | --- |
 | **[Google Health MCP](https://github.com/gokulkrishh/google-health-mcp)** | Ask Claude, ChatGPT or Grok about your Fitbit and Pixel Watch data (sleep, steps, heart rate, HRV, workouts). Unofficial, read-only MCP server | [source](https://github.com/gokulkrishh/google-health-mcp) |
-| **[Uplink](https://getuplink.in)** | Updates, Supercharger spend, battery and driving data for your Tesla in India, on one page | [source](https://github.com/gokulkrishh/getuplink.in) |
+| **[Uplink](https://getuplink.in)** | Updates, Supercharger spend, battery and driving data for your Tesla in India, on one page | |
 | **[til.bar](https://til.bar)** | A personal "today I learned" log, organized by AI | [source](https://github.com/gokulkrishh/til.bar) |
 | **[bmrk.cc](https://bmrk.cc)** | Bookmark manager to organize, discover and personalize your links | [![stars](https://img.shields.io/github/stars/gokulkrishh/bmrk.cc?style=flat&label=%E2%98%85&color=555)](https://github.com/gokulkrishh/bmrk.cc) |
 | **[grep.chat](https://grep.chat)** | Pick an AI model, ask anything | [source](https://github.com/gokulkrishh/grep.chat) |
