@@ -23,9 +23,7 @@ I build small, fast products for the web and Apple platforms, and these days I s
 
 | | What it does | Built with |
 | --- | --- | --- |
-| **[Baby Logs](https://github.com/gokulkrishh/baby-logs)** | Track feeds, diapers and sleep by tap or voice, with charts and an on-device AI assistant | SwiftUI, SwiftData, Swift Charts, Foundation Models |
 | **[HealthExport](https://github.com/gokulkrishh/HealthExport)** | Export Apple Health data (20+ categories) as JSON or CSV | Swift, HealthKit |
-| **[Sol (சொல்)](https://github.com/gokulkrishh/sol-app)** | Learn the Tamil word for everyday English ones, with a Word of the Day widget | SwiftUI, WidgetKit |
 | **[Snap](https://github.com/gokulkrishh/snap-mac-app)** | macOS menu bar app to save and restore window layouts with global hotkeys | Swift |
 | **[LookAway](https://github.com/gokulkrishh/look-away-mac-app)** | macOS menu bar app that reminds you to rest your eyes (20-20-20 rule) | SwiftUI, AppKit |
 
