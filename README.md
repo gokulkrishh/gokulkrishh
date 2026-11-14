@@ -23,6 +23,7 @@ I build small, fast products for the web and Apple platforms, and these days I s
 
 | | What it does | Built with |
 | --- | --- | --- |
+| **Uplink for iPhone** | Your Tesla's software updates, charging, driving and battery, on iPhone. In beta testing | SwiftUI, Swift Charts, MapKit |
 | **[HealthExport](https://github.com/gokulkrishh/HealthExport)** | Export Apple Health data (20+ categories) as JSON or CSV | Swift, HealthKit |
 | **[Snap](https://github.com/gokulkrishh/snap-mac-app)** | macOS menu bar app to save and restore window layouts with global hotkeys | Swift |
 | **[LookAway](https://github.com/gokulkrishh/look-away-mac-app)** | macOS menu bar app that reminds you to rest your eyes (20-20-20 rule) | SwiftUI, AppKit |
